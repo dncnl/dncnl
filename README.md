@@ -45,8 +45,8 @@ Front-End development / Web Development / Data Science.
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [Project Name](https://github.com/yourusername/repo) | What it does in one line | Python, Flask |
-| [Project Name](https://github.com/yourusername/repo) | What it does in one line | HTML, JS |
+<!--  | [Project Name](https://github.com/yourusername/repo) | What it does in one line | Python, Flask |
+| [Project Name](https://github.com/yourusername/repo) | What it does in one line | HTML, JS | -->
 
 ---
 
@@ -54,8 +54,8 @@ Front-End development / Web Development / Data Science.
      Only include links you actually want people to use. -->
 ## Let's connect
 
-- 📧 danielcanlapan0402@gmail.com(mailto:danielcanlapan0402@gmail.com)
-- 💼 LinkedIn(www.linkedin.com/in/daniel-martin-canlapan-1b2760380)
+- 📧 [danielcanlapan0402@gmail.com](mailto:danielcanlapan0402@gmail.com)
+- 💼 [LinkedIn](www.linkedin.com/in/daniel-martin-canlapan-1b2760380)
 
 <!-- ============================================================
      TIP: After editing, go to github.com/[yourusername]/[yourusername]
