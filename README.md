@@ -7,8 +7,8 @@
 # Hi, I'm Daniel Canlapan 👋
 
 <!-- One-liner about who you are. Keep it short and genuine. -->
-I'm a 3rd-year CS student at Angeles University Foundation, passionate about 
-Front-End development / Web Development / Data Science.
+I'm a 4rd-year CS student at Angeles University Foundation, passionate about 
+Full-stack development / AI Engineering / Web Development / Data Science.
 
 ---
 
