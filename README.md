@@ -44,7 +44,7 @@ Full-stack development / AI Engineering / Web Development / Data Science.
 ## Projects
 
 | Project | Description | Tech |
-|---------|-------------|------|
+|[Kain](https://github.com/dncnl/kain-enactus-2026)|-------------|------|
 <!--  | [Project Name](https://github.com/yourusername/repo) | What it does in one line | Python, Flask |
 | [Project Name](https://github.com/yourusername/repo) | What it does in one line | HTML, JS | -->
 
